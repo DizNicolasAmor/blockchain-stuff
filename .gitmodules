@@ -1,0 +1,15 @@
+[submodule "interviews-practice"]
+	path = interviews-practice
+	url = https://github.com/DizNicolasAmor/interviews-practice
+[submodule "brownie-hello-world"]
+	path = brownie-hello-world
+	url = https://github.com/DizNicolasAmor/brownie-hello-world/
+[submodule "brownie-simple-message"]
+	path = brownie-simple-message
+	url = https://github.com/DizNicolasAmor/brownie-simple-message
+[submodule "brownie-simple-token"]
+	path = brownie-simple-token
+	url = https://github.com/DizNicolasAmor/brownie-simple-token
+[submodule "brownie-simple-nft"]
+	path = brownie-simple-nft
+	url = https://github.com/DizNicolasAmor/brownie-simple-nft
