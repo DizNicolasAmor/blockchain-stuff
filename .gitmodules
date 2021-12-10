@@ -13,3 +13,6 @@
 [submodule "brownie-simple-nft"]
 	path = brownie-simple-nft
 	url = https://github.com/DizNicolasAmor/brownie-simple-nft
+[submodule "hardhat-greeting"]
+	path = hardhat-greeting
+	url = https://github.com/DizNicolasAmor/hardhat-greeting
