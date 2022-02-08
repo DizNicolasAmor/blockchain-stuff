@@ -16,3 +16,6 @@
 [submodule "hardhat-greeting"]
 	path = hardhat-greeting
 	url = https://github.com/DizNicolasAmor/hardhat-greeting
+[submodule "criptomonedas"]
+	path = criptomonedas
+	url = https://github.com/DizNicolasAmor/criptomonedas
