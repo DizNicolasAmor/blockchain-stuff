@@ -19,3 +19,6 @@
 [submodule "criptomonedas"]
 	path = criptomonedas
 	url = https://github.com/DizNicolasAmor/criptomonedas
+[submodule "hardhat-erc20"]
+	path = hardhat-erc20
+	url = https://github.com/DizNicolasAmor/hardhat-erc20
