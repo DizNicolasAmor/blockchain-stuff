@@ -22,3 +22,6 @@
 [submodule "hardhat-erc20"]
 	path = hardhat-erc20
 	url = https://github.com/DizNicolasAmor/hardhat-erc20
+[submodule "hardhat-nextjs-redux"]
+	path = hardhat-nextjs-redux
+	url = https://github.com/DizNicolasAmor/hardhat-nextjs-redux
