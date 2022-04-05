@@ -25,3 +25,6 @@
 [submodule "hardhat-nextjs-redux"]
 	path = hardhat-nextjs-redux
 	url = https://github.com/DizNicolasAmor/hardhat-nextjs-redux
+[submodule "hardhat-nft-marketplace"]
+	path = hardhat-nft-marketplace
+	url = https://github.com/DizNicolasAmor/hardhat-nft-marketplace.git
